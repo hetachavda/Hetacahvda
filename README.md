@@ -1,4 +1,5 @@
-  # Hi 👋, I'm Heta Chavda
+  # Hi , I'm Heta Chavda
+👋
 
 **Data Analyst | Master’s Student in Data Analytics @ University of Niagara Falls (ON)**  
 SQL • Python • Power BI • Tableau • ETL • ML • Optimization
