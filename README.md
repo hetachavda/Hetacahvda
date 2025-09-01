@@ -2,10 +2,9 @@
    <h1 align="center">Hi 👋, I'm Hetachavda</h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 <h3 align="center">Data Analyst | Master’s Student in Data Analytics 
               @ University of Niagara Falls (ON)</h3>
-         
-            
+               
    ****  
-              SQL • Python • Power BI • Tableau • ETL • ML • Optimization
+ SQL • Python • Power BI • Tableau • ETL • ML • Optimization
               
   - 🔭 Working on database systems and predictive analytics pipelines  
   - 🌱 Currently exploring MLOps, data ops, and analytics engineering  
