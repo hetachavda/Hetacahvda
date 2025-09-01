@@ -13,4 +13,4 @@
               
 ###  Let's Connect
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hetachavda)  
-  [![Email](https://img.shields.io/badge/Email-hetachavda%40gmail.com-red)](mailto:hetachavda16@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-hetachavda16@gmail.com-red)](mailto:hetachavda16@gmail.com)
