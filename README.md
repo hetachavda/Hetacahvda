@@ -9,7 +9,6 @@ SQL • Python • Power BI • Tableau • ETL • ML • Optimization
 - 📫 Reach me at: **hetachavda16@gmail.com**  
 - 📍 Based in Ontario, Canada
 
----
 ###  Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hetachavda)  
 [![Email](https://img.shields.io/badge/Email-hetachavda%40gmail.com-red)](mailto:hetachavda16@gmail.com)
