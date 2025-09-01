@@ -1,6 +1,6 @@
   # Hi 👋, I'm Heta Chavda
 
-https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
+Hi.gif
 
 **Data Analyst | Master’s Student in Data Analytics 
 @ University of Niagara Falls (ON)**  
