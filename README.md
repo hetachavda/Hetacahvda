@@ -4,7 +4,7 @@
               @ University of Niagara Falls (ON)</h3>
                
    ****  
- SQL • Python • Power BI • Tableau • ETL • ML • Optimization
+ ################# SQL • Python • Power BI • Tableau • ETL • ML • Optimization
               
   - 🔭 Working on database systems and predictive analytics pipelines  
   - 🌱 Currently exploring MLOps, data ops, and analytics engineering  
