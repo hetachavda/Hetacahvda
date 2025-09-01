@@ -1,6 +1,5 @@
   # Hi 👋, I'm Heta Chavda
 
-Hi.gif
 
 **Data Analyst | Master’s Student in Data Analytics 
 @ University of Niagara Falls (ON)**  
