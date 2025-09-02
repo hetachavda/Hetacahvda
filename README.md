@@ -10,7 +10,7 @@
   - 🌱 Currently exploring MLOps, data ops, and analytics engineering  
   - 💬 Ask me about SQL, Python (Pandas, Scikit-learn), Power BI/Tableau, or optimization modeling  
   - 📫 Reach me at: **hetachavda16@gmail.com**  
-  - 👨‍💻 All of my projects are available at [github.com/hetachavda](github.com/hetachavda)
+  - 👨‍💻 All of my projects are available at [github.com/hetachavda](https://www.github.com/hetachavda)
 
               
 ###  Let's Connect
